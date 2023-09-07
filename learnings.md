@@ -27,3 +27,6 @@
 - GI = 0(node is pure)
 - GI = 1(highly impure or the data points are evenly distributed)
 
+
+
+
